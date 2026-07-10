@@ -1,0 +1,1 @@
+# ResQNet AI - config package
